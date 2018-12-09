@@ -1,5 +1,6 @@
 # fill-and-insert-files
 Programs for filling and inserting space for numbered files with common prefixes.
+
 NOTE: This code does not preserve the original amount of files.  Be warned.
 
     fillingGaps.py - Finds all files with a given prefix in a single folder and
